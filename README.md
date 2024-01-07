@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- ⚙️ I am confident in Python, JavaScript, C/C++, HTML/CSS, Bash, LaTeX.
+- 🌱 I’m currently learning Haskell, Prolog, Rust, ML, pathtracing, and other stuff.
+- 👯 I’m looking to collaborate on anything.
+- 💬 Ask me about anything.
+- 📫 How to reach me: kjcao@proton.me
+
 <!--
 **kejcao/kejcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
