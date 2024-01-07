@@ -6,6 +6,8 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: kjcao@proton.me
 
+I have a [blog](https://www.kevincao.xyz/) where I post occasionally, check it out if you have the time.
+
 <!--
 **kejcao/kejcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
